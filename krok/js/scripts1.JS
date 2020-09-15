@@ -64,7 +64,6 @@ function NewTest(m) {
         }
         myWin.document.write('<SCRIPT>var images="DATA/DUS',d,'/Krok_',t,'/IMAGES"; </SCRIPT>');
         myWin.document.write('<SCRIPT SRC="js/scripts2.JS"></SCRIPT>');
-		myWin.document.write('<SCRIPT>window.onblur = function() {onblur_win();} </SCRIPT></HEAD>');
         myWin.document.write("<BODY  ONMOUSEOVER=\"color_new(event)\" ONMOUSEOUT=\"color_back(event)\" ONLOAD=\"inner()\" oncontextmenu=\"menu()\">");
         myWin.document.write(texxt);
         myWin.document.write("</body></html>");

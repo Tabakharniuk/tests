@@ -295,6 +295,12 @@ dusciplina[6].tem[23].nos=1;
 dusciplina[6].tem[24]={};
 dusciplina[6].tem[24].name=' Підготовка до ЗНО з «Хімії».  ';
 dusciplina[6].tem[24].nos=1;
+dusciplina[6].tem[50]={};
+dusciplina[6].tem[50].name=' Крок  М. Сестринська справа.(2020) NEW!';
+dusciplina[6].tem[50].nos=1;
+dusciplina[6].tem[51]={};
+dusciplina[6].tem[51].name=' Крок  М. Лікувальна справа. (2020) NEW! ';
+dusciplina[6].tem[51].nos=1;
 ///----~~~~~~~~~~~~~~~~~~~~~~~~~~~----/////
 
 ///----~~~~~~~~~~~~~~~~~~~~~~~~~~~----/////
